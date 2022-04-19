@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Porn Blocker](https://github.com/mrvivacious/PorNo-_Porn_Blocker)
+- 👯 I’m looking to collaborate on [Fleet](https://github.com/LOGIEXPRESS/Fleet)
 
 - 💬 Ask me about **React and JavaScript**
 
